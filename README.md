@@ -3,11 +3,16 @@
 ## Description
 an html pokemon type information system. made using twine!
 
+A photo of the view while coding on twine: 
+![All the boxes on twine](./assets/images/PTH-Twine.png)
+
 Below are screenshots of the site in action:  
 
-![THe top of the portfolio website](./assets/images/PORTFOLIO-TOP.png)
+![Landing Page](./assets/images/PTH-Main.png)
 
-![The bottom of the portfolio website](./assets/images/PORTFOLIO-LOWER.png)
+![Type List](./assets/images/PTH-List.png)
+
+![Example of the output of clicking Poison](./assets/images/PTH-poison.png)
 
 
 ## Installation
